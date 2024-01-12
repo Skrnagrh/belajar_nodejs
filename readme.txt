@@ -1,4 +1,4 @@
-Belajar Node Js. WPU
+Belajar Node Js
 1. Apa itu Node Js
 2. Arsitektur Node Js
 3. Instalasi & Konfigurasi Node Js
